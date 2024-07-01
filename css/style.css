@@ -382,12 +382,14 @@ button {
      position: absolute;
      left: 20px;
      bottom: 10px;
+     top: 91%;
 }
 
 #banner1 a.carousel-control-next {
      position: absolute;
      right: 20px;
      bottom: 10px;
+     top: 91%;
 }
 
 
